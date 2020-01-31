@@ -1,1 +1,1 @@
-## Welcome to Monobitte
+Monobitte
